@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTables", "DataTables\DataTables.csproj", "{828825F9-B9DE-44A8-ABFF-BF90E8CCAADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828825F9-B9DE-44A8-ABFF-BF90E8CCAADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828825F9-B9DE-44A8-ABFF-BF90E8CCAADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828825F9-B9DE-44A8-ABFF-BF90E8CCAADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828825F9-B9DE-44A8-ABFF-BF90E8CCAADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
